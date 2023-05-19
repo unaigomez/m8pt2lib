@@ -5,4 +5,4 @@ export function calcularMedia(numeros) {
   }
   return suma / numeros.length;
 }
-
+ 
